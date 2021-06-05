@@ -3,7 +3,7 @@
 
 * 🎓 Education:
       
-      * Bachelor's degree,Ewha Womens' Unniversity,Statistics and Economics (2014.03~2020.02)
+     Bachelor's degree,Ewha Womens' Unniversity,Statistics and Economics (2014.03~2020.02)
       
 * 💼 Work experience:
       
