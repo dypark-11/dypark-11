@@ -3,7 +3,7 @@
 
 * 🎓 Education:
       
-     * Bachelor's degree,Ewha Womens' Unniversity,Statistics and Economics (2014.03~2020.02)
+     * Bachelor's degree, Ewha Womens' Unniversity, Statistics and Economics (2014.03~2020.02)
       
 * 💼 Work experience:
       
@@ -17,7 +17,7 @@
      * Youth AI,BigData Academy , POSCO, 3 month(2019.09~2019.12)
       
       
-     * Youth Data Campus , Korea Data Agency , 3 month (2020.6~2020.09)
+     * Youth Data Campus , Korea Data Agency , 3 month (2020.06~2020.09)
 
 * 🌟 Skills : R,Python(Pandas,Sklearn,Tensorflow etc.),SQL(Mysql,MSSQL),PowerBI,Tableau
 
