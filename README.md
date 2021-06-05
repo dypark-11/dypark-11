@@ -7,17 +7,17 @@
       
 * 💼 Work experience:
       
-      * National Cancer Center, Division of Cancer Registration & Surveillance, Researcher , 9 month (2020.07~2021.03)
+     * National Cancer Center, Division of Cancer Registration & Surveillance, Researcher , 9 month (2020.07~2021.03)
       
       
-      * SK Materials, Digital Transformation Innovation team, Data Analyst (2021.03~present)
+     * SK Materials, Digital Transformation Innovation team, Data Analyst (2021.03~present)
       
 * ☘️ Training:
       
-      * Youth AI,BigData Academy , POSCO, 3 month(2019.09~2019.12)
+     * Youth AI,BigData Academy , POSCO, 3 month(2019.09~2019.12)
       
       
-      * Youth Data Campus , Korea Data Agency , 3 month (2020.6~2020.09)
+     * Youth Data Campus , Korea Data Agency , 3 month (2020.6~2020.09)
 
 * 🌟 Skills : R,Python(Pandas,Sklearn,Tensorflow etc.),SQL(Mysql,MSSQL),PowerBI,Tableau
 
