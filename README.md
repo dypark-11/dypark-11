@@ -22,4 +22,7 @@
 * 🌟 Skills : R,Python(Pandas,Sklearn,Tensorflow etc.),SQL(Mysql,MSSQL),PowerBI,Tableau
 
 
-🔔 반가워요!
+* 🔔 Contact : ekdusp11@naver.com
+
+
+반가워요!
