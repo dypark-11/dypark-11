@@ -1,4 +1,4 @@
-👋 Hello! Data analyst dypark의 깃헙입니다.
+👋 Hello! Data analyst dypark의 :octocat: 깃헙입니다.
 
 
 * 🎓 Education:
